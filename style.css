@@ -117,7 +117,7 @@ button {
     height: 200px;
     width: 300px;
     content: url("./images/image-product-mobile.jpg");
-    /* object-fit: scale-down; */
+    /* object-fit: cover; */
   }
 
   .container {
